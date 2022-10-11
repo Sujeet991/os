@@ -251,10 +251,10 @@ c. Mobile computers
 
 **Part 2:** `It provides high- availability service i.e., service will continue to be provided even if one of more systems in the cluster fails. High- availability is generally obtained by adding a level of redundancy in the system. A layer of cluster software runs on the cluster nodes. Each node can monitor one or more of the others (over LAN). If the monitored machine fails, the monitoring machine can take ownership of its storage and restart the application that were running on failed machine.`
 
-**Q 1.17.** `Consider a computing cluster consisting of two nodes running a
+**Q 1.17.** Consider a computing cluster consisting of two nodes running a
 database. Describe two ways in which the cluster software can manage
 access to the data on the disk. Discuss the benefits and disadvantages of
-each.`
+each.
 
 * **Answer:**
 
